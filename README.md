@@ -26,13 +26,13 @@ The purpose of this analysis is to display the knowledge gained with machine lea
 
 ## Results Images
 * 1st Run
-!()[https://github.com/Coachnmomof3/Neural_Network_Charity_Analysis/blob/main/Images/1st%20Run.png]
+!(1stRun)[https://github.com/Coachnmomof3/Neural_Network_Charity_Analysis/blob/main/Images/1st%20Run.png]
 * 2nd Run
-!()[https://github.com/Coachnmomof3/Neural_Network_Charity_Analysis/blob/main/Images/2nd%20Run.png]
+!(2ndRun)[https://github.com/Coachnmomof3/Neural_Network_Charity_Analysis/blob/main/Images/2nd%20Run.png]
 * 3rd Run
-!()[https://github.com/Coachnmomof3/Neural_Network_Charity_Analysis/blob/main/Images/3rd%20Run.png]
-* 4th Run
-!()[https://github.com/Coachnmomof3/Neural_Network_Charity_Analysis/blob/main/Images/Final%20Run%20.7412.png]
+!(3rdRun)[https://github.com/Coachnmomof3/Neural_Network_Charity_Analysis/blob/main/Images/3rd%20Run.png]
+* Final Run
+!(FinalRun)[https://github.com/Coachnmomof3/Neural_Network_Charity_Analysis/blob/main/Images/Final%20Run%20.7412.png]
 
 ## Summary
 
