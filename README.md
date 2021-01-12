@@ -26,7 +26,7 @@ The purpose of this analysis is to display the knowledge gained with machine lea
 
 ## Results Images
 * 1st Run
-!(1stRun)[https://github.com/Coachnmomof3/Neural_Network_Charity_Analysis/blob/main/Images/1st%20Run.png]
+(https://github.com/Coachnmomof3/Neural_Network_Charity_Analysis/blob/main/Images/1st%20Run.png)
 * 2nd Run
 !(2ndRun)[https://github.com/Coachnmomof3/Neural_Network_Charity_Analysis/blob/main/Images/2nd%20Run.png]
 * 3rd Run
